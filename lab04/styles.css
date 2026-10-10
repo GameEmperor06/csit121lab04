@@ -1,0 +1,22 @@
+body {
+
+background-image: url('images/Consoles.jpeg');
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 16px;
+color: black;
+/* or use background-repeat: repeat; for a pattern */
+}
+
+a {
+background-repeat: no-repeat;
+font-size: 16px;
+color: black;
+/* or use background-repeat: repeat; for a pattern */
+}
+
+.current {
+font-weight: bold;
+background-color:yellowgreen;
+/* or use a different text color, underline, etc. */
+}
